@@ -32,11 +32,7 @@ Out of Scope:
 
 ### Usage
 
-* Add new tasks in Google Tasks
-* Manage and complete tasks in SkedPal
-* If there is a `Sent by Google Tasks` link in the SkedPal task,
-  open it to complete the task in Google Tasks
-  before completing it in SkedPal
+Now you can add new tasks in Google and have them available in SkedPal within a minute. In SkedPal you can manage and schedule them properly. Before completing the task in SkedPal, follow the `Sent by Google Tasks` link the task description to complete the task in Google first.
 
 ## Developers
 
