@@ -24,8 +24,6 @@
 
 */
 
-var skedPalEmail = 'soh0estvu5v3iielf80hx35icdwjl4ijsp3@in2.skedpal.com';
-
 function getSentTaskIds() {
   var string = PropertiesService.getUserProperties().getProperty('sentTaskIds')
   if (string) return JSON.parse(string)
@@ -61,14 +59,14 @@ function sendEmail(task, tasklist) {
   var email = { to, subject, htmlBody }
   MailApp.sendEmail(email)
   return email
-} 
+}
 
 function setSentTaskIds(sentTaskIds) {
   return PropertiesService.getUserProperties().setProperty('sentTaskIds', JSON.stringify(sentTaskIds))
 }
 
 function sendNewTasks() {
-  Logger.log('Script started')    
+  Logger.log('Script started')
   var sentTaskIds = getSentTaskIds()
   var tasklists = getTasklists()
   tasklists.forEach(tasklist => {
