@@ -56,6 +56,6 @@ Out of Scope:
 * Run `clasp push` to replace the remote files with the local ones
 * Run `clasp pull` to replace the local files with the remote ones
 
-### Deployment
+### Build
 
 * Run `node buildscript.js` to build the `Code.gs` file
