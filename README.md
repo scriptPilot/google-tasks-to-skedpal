@@ -23,7 +23,7 @@ Out of Scope:
 
 ### Installation
 
-1. Open [Google Apps Script](https://script.google.com/) and create a new project
+1. Open [Google Apps Script](https://script.google.com/) and create a new project `Google Tasks to SkedPal`
 2. Replace **Code.gs** file content with [this code](Code.gs)
 3. Replace `xxx` with your SkedPal Mailbox (Settings > Account)
 4. Click on the + next to **Services**, add `Tasks API`
