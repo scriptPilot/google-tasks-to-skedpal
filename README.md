@@ -26,7 +26,7 @@ Out of Scope:
 2. Replace **Code.gs** file content with [this code](Code.gs)
 3. Replace `xxx` with your SkedPal Mailbox (Settings > Account)
 4. Click on the + next to **Services**, add `Tasks API`
-5. Save the project, select **sendNewTasks** function
+5. Save the project, select **sendNewTasks** function at the top
 6. Run the function and grant permissions (send email, read tasks)
 7. Create a trigger: **sendNewTasks** function, run every minute
 
