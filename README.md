@@ -34,7 +34,9 @@ Out of Scope:
 
 * Add new tasks in Google Tasks
 * Manage and complete tasks in SkedPal
-* If there is a `Sent by Google Tasks` link in the SkedPal task, open it to complete the task in Google Tasks before completing it in SkedPal
+* If there is a `Sent by Google Tasks` link in the SkedPal task,
+  open it to complete the task in Google Tasks
+  before completing it in SkedPal
 
 ## Developers
 
