@@ -15,6 +15,7 @@ Out of Scope:
 
 - [ ] Recurring Google Tasks (Google API limitations)
 - [ ] Due dates with time (Google API limitations)
+- [ ] Priorities based on starred tasks (Google API limitations)
 - [ ] Updates from Google Tasks to SkedPal (SkedPal API limitations)
 - [ ] Updates from SkedPal to Google Tasks  (SkedPal API limitations)
 
