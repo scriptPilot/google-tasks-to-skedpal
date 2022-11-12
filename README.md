@@ -27,7 +27,7 @@ Out of Scope:
 3. Replace `xxx` with your SkedPal Mailbox (Settings > Account)
 4. Click on the + next to **Services**, add `Tasks API`
 5. Save the project, select **sendNewTasks** function at the top
-6. Run the function and grant permissions (send email, read tasks)
+6. Run the function and grant permissions (send emails, read tasks)
 7. Create a trigger: **sendNewTasks** function, run every minute
 
 ### Usage
