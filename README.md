@@ -48,7 +48,7 @@ Out of Scope:
 1. Clone this repository
 2. Replace `xxx` with your SkedPal Mailbox in **credentials.template.js** and save as **credentials.js**
 3. Run `clasp login` to login to Google if not done before
-4. Run `clasp create --type standalone --rootDir . --title "Google Tasks to SkedPal"` to create a new App Script Project
+4. Run `clasp create --type standalone --rootDir . --title "Google Tasks to SkedPal"` to create a new Apps Script Project
 
 ### Development
 
