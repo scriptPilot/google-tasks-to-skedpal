@@ -29,7 +29,7 @@ Out of Scope:
 4. Click on the + next to **Services**, add `Tasks API`
 5. Save the project, select **sendNewTasks** function at the top
 6. Run the function and grant permissions (send emails, read tasks)
-7. Create a trigger: **sendNewTasks** function, run every minute
+7. Create a trigger for the **sendNewTasks** function, run it every minute
 
 ### Usage
 
