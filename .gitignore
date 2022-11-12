@@ -1,5 +1,8 @@
 # MacOS
 .DS_Store
 
+# CLASP
+.clasp.json
+
 # Credentials
-credentials.js
+*credentials.js

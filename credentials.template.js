@@ -1,2 +1,2 @@
-// SkedPal Mailbox (from Settings > Account)
-var skedPalEmail = ''
+// Replace xxx with your SkedPal Mailbox (Settings > Account)
+var skedPalMailbox = 'xxx'
