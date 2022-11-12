@@ -2,7 +2,7 @@
 
 ## Purpose
 
-Create new Google Tasks in SkedPal automatically.
+Create new [Google Tasks](https://tasks.google.com/embed/?origin=https://mail.google.com") in [SkedPal](https://skedpal.com/) automatically.
 
 ## Scope
 
