@@ -18,7 +18,9 @@ Out of Scope:
 - [ ] Updates from Google Tasks to SkedPal (SkedPal API limitations)
 - [ ] Updates from SkedPal to Google Tasks  (SkedPal API limitations)
 
-## Installation
+## End Users
+
+### Installation
 
 1. Open [Google Apps Script](https://script.google.com/) and create a new project
 2. Replace **Code.gs** file content with [this code](Code.gs)
@@ -28,13 +30,13 @@ Out of Scope:
 6. Run the function and grant permissions (send email, read tasks)
 7. Create a trigger: **sendNewTasks** function, run every minute
 
-## Usage
+### Usage
 
 * Add new tasks in SkedPal or Google Tasks
 * Manage and complete tasks in SkedPal
 * If there is a `Sent by Google Tasks` link in the SkedPal task, open it to complete the task in Google Tasks before completing it in SkedPal
 
-## Development
+## Developers
 
 ### Requirements
 
