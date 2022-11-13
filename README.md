@@ -10,6 +10,7 @@ In Scope:
 
 - [x] Multiple lists in Google Tasks
 - [x] Due dates in Google Tasks
+- [ ] Complete Google Tasks on SkedPal task completion (SkedPal API limitations)
 
 Out of Scope:
 
