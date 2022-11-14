@@ -10,15 +10,16 @@ In Scope:
 
 - [x] Multiple lists in Google Tasks
 - [x] Due dates in Google Tasks
-- [ ] Due dates with time (Google API limitations)
-- [ ] Complete Google Tasks on SkedPal task completion (SkedPal API limitations)
 
 Out of Scope:
 
+- [ ] Due dates with time (Google API limitations)
 - [ ] Recurring Google Tasks (Google API limitations)
+- [ ] [From Docs assigned](https://workspaceupdates.googleblog.com/2022/07/tasks-integration-in-google-docs.html) Google Tasks (Google API limitations)
 - [ ] Priorities based on starred tasks (Google API limitations)
 - [ ] Updates from Google Tasks to SkedPal (SkedPal API limitations)
 - [ ] Updates from SkedPal to Google Tasks  (SkedPal API limitations)
+- [ ] Complete Google Tasks on SkedPal task completion (SkedPal API limitations)
 
 ## End Users
 
